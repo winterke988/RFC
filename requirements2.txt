@@ -4,3 +4,8 @@ sklearn
 joblib
 streamlit
 matplotlib
+sklearn.preprocessing
+sklearn.ensemble
+sklearn.model_selection
+sklearn.metrics
+matplotlib.pyplot
